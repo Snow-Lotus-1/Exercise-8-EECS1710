@@ -1,3 +1,6 @@
+//tried messing around in the max patch to try and get a singnal from max to processing
+//did not work
+
 import oscP5.*;
 import netP5.*;
 
